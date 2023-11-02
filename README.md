@@ -57,4 +57,4 @@ The app should now be accessible in your web browser at `http://localhost:5000`.
 
 
 ## Demo
-[![Video](yolo.jpg)](Demo.mp4)
+[![Video](https://www.example.com/video-thumbnail.png)](https://drive.google.com/file/d/1pX_I_VvvsuDDVB6BaaTpLLfxRt003ekg/view?usp=sharing)
