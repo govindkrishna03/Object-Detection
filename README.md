@@ -1,10 +1,10 @@
 # YOLO Detection Web App - Detecting people in a video / cctv
 
-This repository contains a web application for object detection using the YOLO (You Only Look Once) deep learning model. The primary purpose of this application is to detect and count people in  video streams. The YOLO model has proven to be an efficient and accurate solution for object detection tasks, making it suitable for this project.
+This repository contains a web application for object detection using the YOLO (You Only Look Once) deep learning model. The primary purpose of this application is to detect and count people in video streams. The YOLO model has proven to be an efficient and accurate solution for object detection tasks, making it suitable for this project.
 
 ## Features
 
-- Detect and count people in  video streams.
+- Detect and count people in video streams.
 - User-friendly web interface for easy interaction.
 
 ## Prerequisites
@@ -47,7 +47,7 @@ The app should now be accessible in your web browser at `http://localhost:5000`.
 
 3. Click the "Upload" button to display the video with the object detection process.
 
-5. The application will display the processed image or video with bounding boxes around detected people, along with the count.
+4. The application will display the processed image or video with bounding boxes around detected people, along with the count.
 
 ## Customization
 
@@ -55,5 +55,5 @@ The app should now be accessible in your web browser at `http://localhost:5000`.
 
 - Add additional features or object classes to the application as needed.
 
-
-
+## Demo
+[![Video]('yolojpg')]('Demo.webm')
