@@ -55,5 +55,6 @@ The app should now be accessible in your web browser at `http://localhost:5000`.
 
 - Add additional features or object classes to the application as needed.
 
+
 ## Demo
-[![Video]('yolojpg')]('Demo.webm')
+[![Video](yolo.jpg)](Demo.webm)
