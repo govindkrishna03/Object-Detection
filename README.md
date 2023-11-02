@@ -57,4 +57,5 @@ The app should now be accessible in your web browser at `http://localhost:5000`.
 
 
 ## Demo
-[![Video](https://www.example.com/video-thumbnail.png)](https://drive.google.com/file/d/1pX_I_VvvsuDDVB6BaaTpLLfxRt003ekg/view?usp=sharing)
+[[!Video](https://github.com/govindkrishna03/Object-Detection/assets/117291076/61586f6b-164d-40cd-a6da-98069f08b2bb)]
+
